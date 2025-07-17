@@ -1,0 +1,44 @@
+{
+    "version": "5.6.0",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "path",
+            "points": [
+                [
+                    112.0,
+                    1.0
+                ],
+                [
+                    123.0,
+                    2.0
+                ],
+                [
+                    137.0,
+                    6.0
+                ],
+                [
+                    161.0,
+                    10.0
+                ],
+                [
+                    192.0,
+                    18.0
+                ],
+                [
+                    192.0,
+                    1.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "polygon",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "../images/1752734501.png",
+    "imageData": null,
+    "imageHeight": 266,
+    "imageWidth": 193
+}
